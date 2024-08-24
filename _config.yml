@@ -2,14 +2,14 @@
 page_title: The Countdown
 
 # App Info
-ios_app_id: 6503321562 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id: 6503321562
+ios_app_country: us 
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
 presskit_download_link:
 
-app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon: assets/icon.png file manually.
 app_name: The Countdown
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: The Countdown is a simple and easy-to-use app that helps you keep track of important events and such as birthdays, weddings or vacations.
