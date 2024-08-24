@@ -9,7 +9,7 @@ appstore_link: # Automatically populates if not set and if iOS app ID is set. Ot
 playstore_link: # Enter Google Play Store URL.
 presskit_download_link:
 
-app_icon: assets/icon.png file manually.
+app_icon: assets/icon.png
 app_name: The Countdown
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: The Countdown is a simple and easy-to-use app that helps you keep track of important events and such as birthdays, weddings or vacations.
